@@ -1,0 +1,6 @@
+id=fixhdr
+name=HDR Fixer
+version=v.0.0.1
+versionCode=0.0.1
+author=YuHuang
+description=This module enables HDR support on compatible devices by adding specific parameters to the build.prop file.
